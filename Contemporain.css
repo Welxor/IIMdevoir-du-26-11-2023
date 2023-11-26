@@ -1,0 +1,51 @@
+body { 
+    background-image: url("WALL fantasy2.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 166%;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+
+header{
+    position: fixed;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.66);
+    text-align: center;
+}
+
+
+.Leimoge{
+    display: flex;
+    justify-content: space-around;
+}
+.or{
+    width: 40%;
+    height: 40%;
+}
+.pasor{
+    width: 40%;
+    height: 40%;
+}
+
+
+
+main{
+    color:rgb(255, 255, 255);
+}
+.Liens{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+
+    background-color: rgba(0, 0, 0, 0.596);
+    min-height: 10vw;
+    width: 88.5vw;
+    margin: auto;
+}
+.Cl1{
+    display: flex;
+    flex-flow: column wrap;
+    text-align: center;
+}
